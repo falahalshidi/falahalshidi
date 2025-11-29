@@ -11,6 +11,7 @@
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -34,15 +35,15 @@
 
 ### 🎓 Learnz App
 تطبيق تعليمي مبتكر يوفر تجربة تعلم تفاعلية وسهلة الاستخدام.
-- **التقنيات:** React Native, Firebase
+- **التقنيات:** React Native, Expo Go, Firebase
 
 ### 🎓 Learnz Plus
 النسخة المتقدمة من تطبيق Learnz مع مميزات إضافية وتحسينات في الأداء.
-- **التقنيات:** React Native, Firebase
+- **التقنيات:** React Native, Expo Go, Firebase
 
 ### 💼 Oxia App
 تطبيق متكامل يقدم حلول ذكية للمستخدمين.
-- **التقنيات:** React Native
+- **التقنيات:** React Native, Expo Go
 
 ### 🧺 Laundry Services
 منصة لخدمات الغسيل والتنظيف مع واجهة سهلة وسريعة.
